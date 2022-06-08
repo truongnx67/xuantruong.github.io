@@ -1,0 +1,25 @@
+.contact2 h4{
+    padding: 10px;
+    padding-left: 0;
+    font-size: 26px;
+    color:blue;
+}
+.contact2{
+    height:1200px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left:10px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.contact2 p{
+  margin:10px 0;
+}
+.contact2 span{
+  font-weight: bold;
+}
+.map {
+    
+  box-shadow: 5px -10px 5px #ccc;
+}

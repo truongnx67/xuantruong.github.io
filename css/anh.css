@@ -1,0 +1,78 @@
+.teacher{
+	text-align: center;
+	clear: both;
+	width: 900px;
+	height: 490px;
+	background: #0078d7 ;
+	border-radius: 5px;
+}
+.teacher h2{
+	padding: 20px 0;
+	padding-bottom: 10px;
+	color: #fff;
+	font-size: 26px;
+}
+.teacher i{
+	font-size: 17px;
+	color: white;
+}
+.people{
+	padding: 15px 22px;
+}
+.people .personal{
+	width: 270px;
+	height: 360px;
+	background: #fff;
+	float: left;
+	margin-right: 15px;
+	border-radius: 30px;
+
+}
+
+.people .personal img{
+	margin-top: 15px;
+	width: 270px;
+	height: 270px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+}
+.people .personal h5{
+	font-size: 18px;
+	padding: 10px 0;
+	color: #493eff;
+}
+.photo{
+	margin-top: 15px;
+	text-align: center;
+}
+.photo h2{
+	display:block;
+	 background : linear-gradient(#493eff,#82ffb4);
+    background : -moz-linear-gradient(#493eff,#82ffb4);
+    background : -webkit-linear-gradient(#493eff,#82ffb4);
+    background : -o-linear-gradient(#493eff,#82ffb4);
+	font-size: 26px;
+	color: #fff;
+	padding: 9px 10px;
+}
+.photo-1 img{
+	max-width: 99%;
+	box-shadow: 5px 5px 5px #b0abff;
+}
+.photo-2, .photo-3{
+	margin-top: 10px;
+}
+.photo-2{
+	width: 420px;
+	float: left;
+	height: 300px;
+}
+.photo-2 img{
+	box-shadow: 5px 5px 5px #b0abff;
+	max-width: 98%;
+}
+.photo-3 img{
+	box-shadow: 5px 5px 5px #b0abff;
+	width: 465px;
+    height: 275px;
+}
